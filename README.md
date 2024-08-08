@@ -8,3 +8,5 @@ The US Census dataset contains various demographic information, including age, g
 Data Cleaning: Identifying and handling missing values, correcting data types, and removing duplicates.
 Data Transformation: Normalizing data, encoding categorical variables, and standardizing numerical features.
 Exploratory Data Analysis (EDA): Gaining insights through visualizations and statistical analysis.
+
+Still working on this project
